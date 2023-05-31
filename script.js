@@ -1,12 +1,8 @@
-//your code here
-.city{
-	max-width: 600px;
-margin: 10px;
-padding: 15px;
-border-left: 8px solid green;
-background-color: #f8fffe;
-font-weight: bold;
-	text-decoration:none;
-	color:black;
-
-}
+.para{max-width:600px;
+	  margin:10px;
+	  background-color:#f8fffe;
+	  fong-weight:bold;
+	  padding:15px;
+	 }
+.para-1{border-left:8px solid green;
+	   }
